@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="UTF-8">
+		<title>Artigo</title>
+	</head>
+	<body>
+		<header>
+			<h1>Título da minha página</h1>
+		</header>
+		<nav>
+			<ul>
+				<li><a href="/index.html">index</a></li>
+				<li><a href="/">Link 2</a></li>
+				<li><a href="/">Link 3</a></li>
+				<li><a href="/">Link 4</a></li>
+				<li><a href="/">Link 5</a></li>
+				<li><a href="/">Link 6</a></li>
+			</ul>	
+		</nav>
+		<article>
+			<header>
+				<h2>Título do artigo</h2>
+				12/12/2012
+			</header>
+			
+			<article>
+				<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ornare tincidunt nulla eget rhoncus. Nullam et ex feugiat, sollicitudin risus eu, vulputate odio. Aliquam sagittis in ante eget rutrum. Sed quis sagittis lacus. Aliquam erat volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse potenti. Sed sed rutrum urna. Aenean accumsan erat non lacus pretium eleifend. Donec eget mi porttitor nunc commodo bibendum quis sit amet odio. Phasellus luctus lorem quis enim viverra viverra.
+
+Cras ullamcorper odio a arcu dapibus, sit amet aliquam eros imperdiet. Nam ornare vitae dolor sed posuere. Proin auctor ex urna, eget sodales mi volutpat vel. In tincidunt hendrerit dolor ut dictum. Sed eget placerat quam. Quisque mollis ex vel nibh interdum, et aliquam elit cursus. Pellentesque consectetur nec quam sit amet facilisis. Donec rhoncus malesuada nisi, non laoreet risus tristique ut. Vivamus accumsan posuere pharetra. Vestibulum viverra facilisis tristique. Donec scelerisque risus a dui semper, sed sagittis nisl semper.
+
+Praesent at congue ligula. Nunc sed lorem id mi tincidunt semper. Suspendisse gravida finibus felis a viverra. Sed nec vehicula turpis. Donec tristique efficitur est, et auctor erat rutrum posuere. Curabitur elementum ullamcorper diam a pulvinar. Cras in sollicitudin mi. Nullam sed facilisis odio.
+
+Nulla facilisi. Ut nec pellentesque lacus. Donec eu magna at augue aliquet efficitur. Integer sed purus lorem. Sed tellus odio, fermentum vel magna ac, efficitur porttitor ante. Etiam nulla elit, placerat et gravida venenatis, fermentum ut dui. Nullam condimentum, ex ut eleifend commodo, risus mauris malesuada risus, mollis rhoncus ante massa vel mauris. Sed nec maximus neque. Aliquam nec commodo odio. Quisque molestie magna tellus, eget pretium risus aliquam vel.
+				</p>
+			</article>
+			<footer><p>Escrito por Diogo</p></footer>
+		</article>
+		<aside>
+			
+		</aside>
+		<footer>
+			<a href="https://portal1.iff.edu.br/">iff fluminense</a>
+		</footer>
+	</body>
+</html>

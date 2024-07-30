@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">	
+	<head>
+		<meta charset="UTF-8">
+		<title>Tabelas</title>
+		<style>
+table, th, td {
+  border: 1px solid black;
+}
+	</style>
+	</head>
+	<body>
+		<header>
+			<h1>Tabelas</h1>
+		</header>
+		
+		<article>
+			<header>
+				<h2>Célula com 2 colunas</h2>
+			</header>
+		
+			<table>
+				<tr>
+					<td>Nome</td>
+					<td colspan="2">Telefone</td>
+				</tr>
+				<tr>
+					<td>José das Colves</td>
+					<td>22 999231239</td>
+					<td>22 27273721</td>
+				</tr>
+			</table>						
+		</article>
+			
+		<article>
+			<header>
+				<h2>Célula com 2 linhas</h2>
+			</header>		
+			<table>
+				<tr>
+					<td>Nome</td>
+					<td>José das Colves</td>
+				</tr>
+				<tr>
+					<td rowspan="2">Telefone</td>
+					<td>22 999231239</td>
+				</tr>
+				<tr>
+					<td>22 27273721</td>				
+				</tr>				
+			</table>						
+		</article>
+			
+		<article>
+			<header>
+				<h2>Tabela com legenda</h2>
+			</header>		
+			<table>
+			<caption>Total de despesas por Mês</caption>
+				<tr>
+					<td>Mês</td>
+					<td>Total</td>
+				</tr>
+				<tr>
+					<td>Janeiro</td>
+					<td>R$30013,00</td>
+				</tr>
+				<tr>
+					<td>Fevereiro</td>				
+					<td>R$12343,23</td>				
+				</tr>				
+			</table>						
+		</article>
+	</body>
+</html>
